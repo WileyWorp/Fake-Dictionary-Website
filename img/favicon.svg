@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 182px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        font-family: GothamRounded-Medium, 'Gotham Rounded';
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-4 {
+        fill: #121213;
+      }
+
+      .cls-2 {
+        font-size: 108px;
+      }
+
+      .cls-5 {
+        fill: none;
+        stroke: #e51b23;
+        stroke-miterlimit: 10;
+        stroke-width: 15px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-4" width="500" height="500"/>
+  <text class="cls-1" transform="translate(.48 191.88)"><tspan class="cls-3" x="0" y="0">F</tspan><tspan x="106.65" y="0">AKE</tspan></text>
+  <rect class="cls-5" x="12.86" y="246" width="474.29" height="8" rx="4" ry="4"/>
+  <text class="cls-2" transform="translate(1.17 414.69)"><tspan x="0" y="0">DEFINER</tspan></text>
+</svg>
